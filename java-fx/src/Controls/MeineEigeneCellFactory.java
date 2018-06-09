@@ -12,7 +12,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class MeineCellFactory2 extends Application {
+public class MeineEigeneCellFactory extends Application {
 	public void start(Stage primaryStage) {
 	try {
 		VBox root = new VBox();
